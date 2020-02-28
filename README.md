@@ -7,6 +7,9 @@ DEWS (DEep White matter hyperintensity Segmentation framework) \
 *B.-y. Park and M. J. Lee et al.* DEWS (DEep White matter hyperintensity Segmentation framework): A fully automated pipeline for detecting small deep white matter hyperintensities in migraineurs. *NeuroImage: Clinical* 18:638-647 (2018). \
 https://www.sciencedirect.com/science/article/pii/S2213158218300676
 
+* **NEW LINK** \
+https://gitlab.com/by9433/dews
+
 # Prerequisite
 DEWS requries MATLAB in linux \
 AFNI and FSL should be installed before running the program \
